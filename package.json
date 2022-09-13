@@ -1,0 +1,30 @@
+{
+  "name": "fs_module",
+  "version": "1.0.0",
+  "description": "fs modul",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Logfer/fs_module.git"
+  },
+  "keywords": [
+    "fs"
+  ],
+  "author": "mv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Logfer/fs_module/issues"
+  },
+  "homepage": "https://github.com/Logfer/fs_module#readme"
+}
